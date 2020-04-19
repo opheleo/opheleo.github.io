@@ -52,20 +52,6 @@
             ],
             "date_published": "2020-04-19T16:55:45+05:30",
             "date_modified": "2020-04-19T21:05:28+05:30"
-        },
-        {
-            "id": "https://opheleo.cf/home/",
-            "url": "https://opheleo.cf/home/",
-            "title": "Home",
-            "summary": "Welcome to Opheleo, an online repository of spiritually helpful essays and articles. Click here to read a few &gt;&gt;",
-            "content_html": "Welcome to Opheleo, an online repository of spiritually helpful essays and articles. <a href=\"../../../../../tag/articles/\">Click here to read a few &gt;&gt;</a>",
-            "author": {
-                "name": "Iraxel"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-04-19T16:55:30+05:30",
-            "date_modified": "2020-04-19T21:09:13+05:30"
         }
     ]
 }
