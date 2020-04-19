@@ -3,7 +3,7 @@
     <title>Opheleo</title>
     <link href="https://opheleo.cf/feed.xml" rel="self" />
     <link href="https://opheleo.cf" />
-    <updated>2020-04-19T21:09:17+05:30</updated>
+    <updated>2020-04-19T21:13:47+05:30</updated>
     <author>
         <name>Iraxel</name>
     </author>
@@ -17,9 +17,18 @@
         <link href="https://opheleo.cf/contact/"/>
         <id>https://opheleo.cf/contact/</id>
 
-        <updated>2020-04-19T19:44:03+05:30</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-04-19T21:13:42+05:30</updated>
+            <summary>
+                <![CDATA[
+                    If you would, please fill out the form below. Loading…
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>If you would, please fill out the form below.</p>
+<p><iframe width="640" height="673" src="https://docs.google.com/forms/d/e/1FAIpQLSfI3nNN45mirmA7McRtJmovPKi7Vq8De_XYS9R4Ps9IzNR36g/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Whats Common Between Greed and Immorality?</title>
