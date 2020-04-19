@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Opheleo</title>
-    <link href="http://opheleo.cf/feed.xml" rel="self" />
-    <link href="http://opheleo.cf" />
-    <updated>2020-04-19T19:23:32+05:30</updated>
+    <link href="https://opheleo.cf/feed.xml" rel="self" />
+    <link href="https://opheleo.cf" />
+    <updated>2020-04-19T19:29:02+05:30</updated>
     <author>
         <name>Iraxel</name>
     </author>
-    <id>http://opheleo.cf</id>
+    <id>https://opheleo.cf</id>
 
     <entry>
         <title>Whats Common Between Greed and Immorality?</title>
         <author>
             <name>Iraxel</name>
         </author>
-        <link href="http://opheleo.cf/whats-common-between-greed-and-immorality/"/>
-        <id>http://opheleo.cf/whats-common-between-greed-and-immorality/</id>
-            <category term="Gleanings"/>
+        <link href="https://opheleo.cf/whats-common-between-greed-and-immorality/"/>
+        <id>https://opheleo.cf/whats-common-between-greed-and-immorality/</id>
+            <category term="Articles"/>
 
-        <updated>2020-04-19T19:10:26+05:30</updated>
+        <updated>2020-04-19T19:28:12+05:30</updated>
             <summary>
                 <![CDATA[
                     In the epistle to the Colossians, Paul exhorts the believers of that church to consider the members of their earthly bodies as dead to various things: “Consider the members of your earthly body as dead to immorality, impurity, passion, evil desire, and greed, which amounts to idolatry.” - Col 3:5b (NASB) As I read this verse, I happened to look up the Greek words used, and I was surprised to find greed a part of this list. It was almost like finding an orange in a box of apples. The word greed is the only one that apparently does not&hellip;
@@ -54,8 +54,8 @@
         <author>
             <name>Iraxel</name>
         </author>
-        <link href="http://opheleo.cf/about/"/>
-        <id>http://opheleo.cf/about/</id>
+        <link href="https://opheleo.cf/about/"/>
+        <id>https://opheleo.cf/about/</id>
 
         <updated>2020-04-19T19:06:35+05:30</updated>
             <summary>
@@ -75,8 +75,8 @@
         <author>
             <name>Iraxel</name>
         </author>
-        <link href="http://opheleo.cf/home/"/>
-        <id>http://opheleo.cf/home/</id>
+        <link href="https://opheleo.cf/home/"/>
+        <id>https://opheleo.cf/home/</id>
 
         <updated>2020-04-19T16:55:30+05:30</updated>
             <summary>

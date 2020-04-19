@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://opheleo.cf/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://opheleo.cf/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://opheleo.cf/</loc>
+<loc>https://opheleo.cf/</loc>
 </url>
 <url>
-<loc>http://opheleo.cf/about/</loc>
+<loc>https://opheleo.cf/about/</loc>
 <lastmod>2020-04-19T19:06:35+05:30</lastmod>
 </url>
 <url>
-<loc>http://opheleo.cf/home/</loc>
+<loc>https://opheleo.cf/home/</loc>
 <lastmod>2020-04-19T16:55:30+05:30</lastmod>
 </url>
 <url>
-<loc>http://opheleo.cf/whats-common-between-greed-and-immorality/</loc>
-<lastmod>2020-04-19T19:10:26+05:30</lastmod>
+<loc>https://opheleo.cf/whats-common-between-greed-and-immorality/</loc>
+<lastmod>2020-04-19T19:28:12+05:30</lastmod>
 </url>
 </urlset>
