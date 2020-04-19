@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Opheleo",
+    "description": "",
+    "home_page_url": "https://opheleo.github.io",
+    "feed_url": "https://opheleo.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Iraxel"
+    },
+    "items": [
+        {
+            "id": "https://opheleo.github.io/hello.html",
+            "url": "https://opheleo.github.io/hello.html",
+            "title": "Hello",
+            "author": {
+                "name": "Iraxel"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-19T16:35:21+05:30",
+            "date_modified": "2020-04-19T16:35:21+05:30"
+        }
+    ]
+}
