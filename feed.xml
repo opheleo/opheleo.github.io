@@ -3,7 +3,7 @@
     <title>Opheleo</title>
     <link href="https://opheleo.cf/feed.xml" rel="self" />
     <link href="https://opheleo.cf" />
-    <updated>2020-04-24T19:20:43+05:30</updated>
+    <updated>2020-04-24T19:22:08+05:30</updated>
     <author>
         <name>Iraxel</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://opheleo.cf/death-and-life-two-sides-of-the-same-coin/"/>
         <id>https://opheleo.cf/death-and-life-two-sides-of-the-same-coin/</id>
+            <category term="Articles"/>
 
-        <updated>2020-04-24T19:20:39+05:30</updated>
+        <updated>2020-04-24T19:21:55+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opheleo.cf/media/posts/7/man-in-black-jacket-standing-in-front-of-grave-3648309.jpg" alt="" />
