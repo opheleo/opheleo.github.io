@@ -3,12 +3,41 @@
     <title>Opheleo</title>
     <link href="https://opheleo.cf/feed.xml" rel="self" />
     <link href="https://opheleo.cf" />
-    <updated>2020-04-27T17:01:01+05:30</updated>
+    <updated>2020-04-27T18:23:32+05:30</updated>
     <author>
         <name>Iraxel</name>
     </author>
     <id>https://opheleo.cf</id>
 
+    <entry>
+        <title>Subscribe</title>
+        <author>
+            <name>Iraxel</name>
+        </author>
+        <link href="https://opheleo.cf/subscribe/"/>
+        <id>https://opheleo.cf/subscribe/</id>
+
+        <updated>2020-04-27T18:22:42+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://opheleo.cf/media/posts/9/bonding-cold-cozy-dog-374845.jpg" alt="" />
+                    Subscribe to the latest posts straight to your inbox 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://opheleo.cf/media/posts/9/bonding-cold-cozy-dog-374845.jpg" alt="" />
+                <!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="https://opheleo.us8.list-manage.com/subscribe/post?u=2b3feaac61d83cee795fbee52&amp;id=a96cc76c80" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll"><label for="mce-EMAIL">Subscribe to the latest posts straight to your inbox</label> <input id="mce-EMAIL" class="email" name="EMAIL" required="" type="email" value="" placeholder="email address"> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;"><input tabindex="-1" name="b_2b3feaac61d83cee795fbee52_a96cc76c80" type="text" value=""></div>
+<div class="clear"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Subscribe"></div>
+</div>
+</form></div>
+<!--End mc_embed_signup-->
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Pursuit of Happiness</title>
         <author>

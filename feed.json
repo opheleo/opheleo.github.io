@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://opheleo.cf/subscribe/",
+            "url": "https://opheleo.cf/subscribe/",
+            "title": "Subscribe",
+            "summary": "Subscribe to the latest posts straight to your inbox ",
+            "content_html": "<!-- Begin Mailchimp Signup Form -->\n<div id=\"mc_embed_signup\"><form id=\"mc-embedded-subscribe-form\" class=\"validate\" action=\"https://opheleo.us8.list-manage.com/subscribe/post?u=2b3feaac61d83cee795fbee52&amp;id=a96cc76c80\" method=\"post\" name=\"mc-embedded-subscribe-form\" novalidate=\"\" target=\"_blank\">\n<div id=\"mc_embed_signup_scroll\"><label for=\"mce-EMAIL\">Subscribe to the latest posts straight to your inbox</label> <input id=\"mce-EMAIL\" class=\"email\" name=\"EMAIL\" required=\"\" type=\"email\" value=\"\" placeholder=\"email address\"> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->\n<div style=\"position: absolute; left: -5000px;\"><input tabindex=\"-1\" name=\"b_2b3feaac61d83cee795fbee52_a96cc76c80\" type=\"text\" value=\"\"></div>\n<div class=\"clear\"><input id=\"mc-embedded-subscribe\" class=\"button\" name=\"subscribe\" type=\"submit\" value=\"Subscribe\"></div>\n</div>\n</form></div>\n<!--End mc_embed_signup-->",
+            "image": "https://opheleo.cf/media/posts/9/bonding-cold-cozy-dog-374845.jpg",
+            "author": {
+                "name": "Iraxel"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-27T18:22:42+05:30",
+            "date_modified": "2020-04-27T18:22:42+05:30"
+        },
+        {
             "id": "https://opheleo.cf/the-pursuit-of-happiness/",
             "url": "https://opheleo.cf/the-pursuit-of-happiness/",
             "title": "The Pursuit of Happiness",
