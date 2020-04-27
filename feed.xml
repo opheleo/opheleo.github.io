@@ -3,7 +3,7 @@
     <title>Opheleo</title>
     <link href="https://opheleo.cf/feed.xml" rel="self" />
     <link href="https://opheleo.cf" />
-    <updated>2020-04-27T15:56:18+05:30</updated>
+    <updated>2020-04-27T15:57:21+05:30</updated>
     <author>
         <name>Iraxel</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://opheleo.cf/the-pursuit-of-happiness/"/>
         <id>https://opheleo.cf/the-pursuit-of-happiness/</id>
+            <category term="Articles"/>
 
-        <updated>2020-04-27T15:55:57+05:30</updated>
+        <updated>2020-04-27T15:57:14+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opheleo.cf/media/posts/8/bonding-cold-cozy-dog-374845.jpg" alt="" />
