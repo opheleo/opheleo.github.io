@@ -3,12 +3,35 @@
     <title>Opheleo</title>
     <link href="https://opheleo.cf/feed.xml" rel="self" />
     <link href="https://opheleo.cf" />
-    <updated>2020-04-27T21:30:50+05:30</updated>
+    <updated>2020-05-02T15:33:39+05:30</updated>
     <author>
         <name>Iraxel</name>
     </author>
     <id>https://opheleo.cf</id>
 
+    <entry>
+        <title>The Departing</title>
+        <author>
+            <name>Iraxel</name>
+        </author>
+        <link href="https://opheleo.cf/the-departing/"/>
+        <id>https://opheleo.cf/the-departing/</id>
+            <category term="Poetry"/>
+
+        <updated>2020-05-02T15:32:57+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://opheleo.cf/media/posts/10/woman-standing-near-open-door-about-to-step-outside-2297663.jpg" alt="Departing" />
+                    In the departing, Is the beginning, Of the turning, From the light we know. For this we perceive, Deep down in our hearts, Every sorrow comes, Because we first depart. Later come the sighings, The regrets that flow, We would be happier, If we never did go. Staying was such bliss, Sweet intimacy, Why then did we leave, Only now to groan?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://opheleo.cf/media/posts/10/woman-standing-near-open-door-about-to-step-outside-2297663.jpg" alt="Departing" />
+                <p><em>In the departing,<br> Is the beginning,<br> Of the turning,<br> From the light we know.<br> <br> For this we perceive, <br> Deep down in our hearts,<br> Every sorrow comes, <br> Because we first depart.<br> <br> Later come the sighings,<br> The regrets that flow,<br> We would be happier,<br> If we never did go.<br> <br> Staying was such bliss,<br> Sweet intimacy,<br> Why then did we leave,<br> Only now to groan?</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Subscribe</title>
         <author>
