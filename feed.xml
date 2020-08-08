@@ -3,7 +3,7 @@
     <title>Opheleo</title>
     <link href="https://opheleo.cf/feed.xml" rel="self" />
     <link href="https://opheleo.cf" />
-    <updated>2020-08-08T21:44:40+05:30</updated>
+    <updated>2020-08-08T21:45:31+05:30</updated>
     <author>
         <name>Iraxel</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://opheleo.cf/who-then-is-this/"/>
         <id>https://opheleo.cf/who-then-is-this/</id>
+            <category term="Gospel"/>
+            <category term="Articles"/>
 
-        <updated>2020-08-08T21:44:27+05:30</updated>
+        <updated>2020-08-08T21:45:24+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opheleo.cf/media/posts/15/storm.jpg" alt="" />
