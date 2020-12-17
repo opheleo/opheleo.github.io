@@ -3,29 +3,12 @@
     <title>Opheleo</title>
     <link href="https://opheleo.cf/feed.xml" rel="self" />
     <link href="https://opheleo.cf" />
-    <updated>2020-12-17T21:02:04+05:30</updated>
+    <updated>2020-12-17T22:50:01+05:30</updated>
     <author>
         <name>Iraxel</name>
     </author>
     <id>https://opheleo.cf</id>
 
-    <entry>
-        <title>Who then is this? 2</title>
-        <author>
-            <name>Iraxel</name>
-        </author>
-        <link href="https://opheleo.cf/who-then-is-this-2/"/>
-        <id>https://opheleo.cf/who-then-is-this-2/</id>
-            <category term="Articles"/>
-
-        <updated>2020-12-17T21:01:34+05:30</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <p><iframe width="300" height="150" src="https://docs.google.com/document/d/e/2PACX-1vQo9reLdkEYD5w-rd_2Xz11XpkvyvVzcQEgrMsruyJYeuTuh7IN7WPMdj0xo9mQ6KhONOV71BBixqUm/pub?embedded=true"></iframe></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Who then is this?</title>
         <author>
