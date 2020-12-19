@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Opheleo</title>
-    <link href="https://opheleo.cf/feed.xml" rel="self" />
-    <link href="https://opheleo.cf" />
-    <updated>2020-12-19T16:13:44+05:30</updated>
+    <link href="https://charliejoseph.ml/feed.xml" rel="self" />
+    <link href="https://charliejoseph.ml" />
+    <updated>2020-12-19T16:36:52+05:30</updated>
     <author>
         <name>Iraxel</name>
     </author>
-    <id>https://opheleo.cf</id>
+    <id>https://charliejoseph.ml</id>
 
     <entry>
         <title>Who then is this?</title>
         <author>
             <name>Iraxel</name>
         </author>
-        <link href="https://opheleo.cf/who-then-is-this/"/>
-        <id>https://opheleo.cf/who-then-is-this/</id>
+        <link href="https://charliejoseph.ml/who-then-is-this/"/>
+        <id>https://charliejoseph.ml/who-then-is-this/</id>
             <category term="Gospel"/>
             <category term="Articles"/>
 
@@ -41,8 +41,8 @@
         <author>
             <name>Iraxel</name>
         </author>
-        <link href="https://opheleo.cf/quite-a-gale/"/>
-        <id>https://opheleo.cf/quite-a-gale/</id>
+        <link href="https://charliejoseph.ml/quite-a-gale/"/>
+        <id>https://charliejoseph.ml/quite-a-gale/</id>
             <category term="Poetry"/>
 
         <updated>2020-12-19T14:39:58+05:30</updated>
@@ -64,8 +64,8 @@
         <author>
             <name>Iraxel</name>
         </author>
-        <link href="https://opheleo.cf/the-departing/"/>
-        <id>https://opheleo.cf/the-departing/</id>
+        <link href="https://charliejoseph.ml/the-departing/"/>
+        <id>https://charliejoseph.ml/the-departing/</id>
             <category term="Poetry"/>
 
         <updated>2020-12-19T14:40:18+05:30</updated>
@@ -85,20 +85,20 @@
         <author>
             <name>Iraxel</name>
         </author>
-        <link href="https://opheleo.cf/the-pursuit-of-happiness/"/>
-        <id>https://opheleo.cf/the-pursuit-of-happiness/</id>
+        <link href="https://charliejoseph.ml/the-pursuit-of-happiness/"/>
+        <id>https://charliejoseph.ml/the-pursuit-of-happiness/</id>
             <category term="Articles"/>
 
         <updated>2020-12-19T14:40:40+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://opheleo.cf/media/posts/8/bonding-cold-cozy-dog-374845.jpg" alt="" />
+                        <img src="https://charliejoseph.ml/media/posts/8/bonding-cold-cozy-dog-374845.jpg" alt="" />
                     The second paragraph of the United States Declaration of Independence begins with "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness". Yet even though all of us are self-evidently endowed with the right to pursue happiness, we ought really to ask ourselves if we do know what happiness is, and more importantly how to pursue it. If we are true to ourselves, most of us would agree that perhaps we really do not know&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://opheleo.cf/media/posts/8/bonding-cold-cozy-dog-374845.jpg" alt="" />
+                    <img src="https://charliejoseph.ml/media/posts/8/bonding-cold-cozy-dog-374845.jpg" alt="" />
                 <p>The second paragraph of the United States Declaration of Independence begins with "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and <strong>the pursuit of Happiness</strong>". Yet even though all of us are self-evidently endowed with the right to pursue happiness, we ought really to ask ourselves if we do know what happiness is, and more importantly how to pursue it.</p>
 <p>If we are true to ourselves, most of us would agree that perhaps we really do not know what happiness is for very often we pursue what we think it is, only to discover with dismay that what we have pursued and obtained gives but short lived satisfaction. And so, we stumble desperately along a variety of paths in a renewed pursuit, each one ending in one kind of disillusionment after another.</p>
 <h2 id="mcetoc_1e6tikl8t0"><strong>Always alluring but never lasting</strong></h2>
@@ -181,8 +181,8 @@
         <author>
             <name>Iraxel</name>
         </author>
-        <link href="https://opheleo.cf/death-and-life-two-sides-of-the-same-coin/"/>
-        <id>https://opheleo.cf/death-and-life-two-sides-of-the-same-coin/</id>
+        <link href="https://charliejoseph.ml/death-and-life-two-sides-of-the-same-coin/"/>
+        <id>https://charliejoseph.ml/death-and-life-two-sides-of-the-same-coin/</id>
             <category term="Articles"/>
 
         <updated>2020-12-19T14:40:56+05:30</updated>
@@ -218,8 +218,8 @@
         <author>
             <name>Iraxel</name>
         </author>
-        <link href="https://opheleo.cf/contact/"/>
-        <id>https://opheleo.cf/contact/</id>
+        <link href="https://charliejoseph.ml/contact/"/>
+        <id>https://charliejoseph.ml/contact/</id>
 
         <updated>2020-12-19T14:35:47+05:30</updated>
             <summary>
@@ -239,8 +239,8 @@
         <author>
             <name>Iraxel</name>
         </author>
-        <link href="https://opheleo.cf/whats-common-between-greed-and-immorality/"/>
-        <id>https://opheleo.cf/whats-common-between-greed-and-immorality/</id>
+        <link href="https://charliejoseph.ml/whats-common-between-greed-and-immorality/"/>
+        <id>https://charliejoseph.ml/whats-common-between-greed-and-immorality/</id>
             <category term="Articles"/>
 
         <updated>2020-12-19T14:41:29+05:30</updated>
@@ -284,8 +284,8 @@
         <author>
             <name>Iraxel</name>
         </author>
-        <link href="https://opheleo.cf/about/"/>
-        <id>https://opheleo.cf/about/</id>
+        <link href="https://charliejoseph.ml/about/"/>
+        <id>https://charliejoseph.ml/about/</id>
 
         <updated>2020-12-19T14:41:21+05:30</updated>
             <summary>
