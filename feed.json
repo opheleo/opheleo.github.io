@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Opheleo",
+    "title": "Charlie Joseph",
     "description": "",
     "home_page_url": "https://charliejoseph.ml",
     "feed_url": "https://charliejoseph.ml/feed.json",
@@ -90,15 +90,15 @@
             "id": "https://charliejoseph.ml/contact/",
             "url": "https://charliejoseph.ml/contact/",
             "title": "Contact",
-            "summary": "If you would, please fill out the form below. Loading…",
-            "content_html": "<p>If you would, please fill out the form below.</p>\n<p><iframe width=\"640\" height=\"673\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSfI3nNN45mirmA7McRtJmovPKi7Vq8De_XYS9R4Ps9IzNR36g/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></p>",
+            "summary": "If you would, please fill out the form below. I think I will most likely get back to you. Loading…",
+            "content_html": "<p>If you would, please fill out the form below. I think I will most likely get back to you.</p>\n<p><iframe width=\"640\" height=\"673\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSfI3nNN45mirmA7McRtJmovPKi7Vq8De_XYS9R4Ps9IzNR36g/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></p>",
             "author": {
                 "name": "Iraxel"
             },
             "tags": [
             ],
             "date_published": "2020-04-19T19:44:03+05:30",
-            "date_modified": "2020-12-19T14:35:47+05:30"
+            "date_modified": "2020-12-19T16:46:40+05:30"
         },
         {
             "id": "https://charliejoseph.ml/whats-common-between-greed-and-immorality/",
@@ -119,15 +119,15 @@
             "id": "https://charliejoseph.ml/about/",
             "url": "https://charliejoseph.ml/about/",
             "title": "About",
-            "summary": "Opheleo is a Greek word which means to help, benefit, or do good. This site hosts articles and essays and other random writings with the common thread that they're written with a view of being of some use to whoever happens to stumble onto this site. Most of the content is written from a Christian worldview, but having been written by an amateur hobby writer, may not be very theological sound. So read at your own peril, and be a Berean if you know what I mean. Whether you are a believer or a seeker or a disinterested passerby, may you understand&hellip;",
-            "content_html": "<p>Opheleo is a Greek word which means to help, benefit, or do good. This site hosts articles and essays and other random writings with the common thread that they're written with a view of being of some use to whoever happens to stumble onto this site.  Most of the content is written from a Christian worldview, but having been written by an amateur hobby writer, may not be very theological sound. So read at your own peril, and be a Berean if you know what I mean.</p>\n<p>Whether you are a believer or a seeker or a disinterested passerby, may you understand more clearly the purpose of the One who asked long ago: <em>What will it profit a man if he gains the world and forfeits his soul?</em></p>\n<p>You can reach out to the author who goes by the pen name Iraxel with bouquets, brickbats, or corrections by using the contact form <a href=\"../../../../../contact\">here</a>.  </p>",
+            "summary": "Random observations and poetry on life, the scriptures, the news, and other things. You can reach out to me with bouquets, brickbats, or corrections by using the contact form here. ",
+            "content_html": "<p>Random observations and poetry on life, the scriptures, the news, and other things.</p>\n<p>You can reach out to me with bouquets, brickbats, or corrections by using the contact form <a href=\"../../../../../contact\">here</a>.  </p>",
             "author": {
                 "name": "Iraxel"
             },
             "tags": [
             ],
             "date_published": "2020-04-19T16:55:45+05:30",
-            "date_modified": "2020-12-19T14:41:21+05:30"
+            "date_modified": "2020-12-19T16:44:52+05:30"
         }
     ]
 }
