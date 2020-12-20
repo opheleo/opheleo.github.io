@@ -3,12 +3,28 @@
     <title>Charlie Joseph</title>
     <link href="https://charliejoseph.ml/feed.xml" rel="self" />
     <link href="https://charliejoseph.ml" />
-    <updated>2020-12-20T19:05:11+05:30</updated>
+    <updated>2020-12-20T19:16:27+05:30</updated>
     <author>
         <name>Charlie</name>
     </author>
     <id>https://charliejoseph.ml</id>
 
+    <entry>
+        <title>Writings</title>
+        <author>
+            <name>Charlie</name>
+        </author>
+        <link href="https://charliejoseph.ml/writings/"/>
+        <id>https://charliejoseph.ml/writings/</id>
+
+        <updated>2020-12-20T19:14:37+05:30</updated>
+            <summary>
+                <![CDATA[
+                     Categorized under: Biblical: Small articles based off Bible verses Gospel: Articles about the good news of Jesus Christ 
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Subscribe</title>
         <author>
@@ -32,10 +48,9 @@
         </author>
         <link href="https://charliejoseph.ml/worthy-of-all-honor/"/>
         <id>https://charliejoseph.ml/worthy-of-all-honor/</id>
-            <category term="Writings"/>
             <category term="Biblical"/>
 
-        <updated>2020-12-20T17:46:44+05:30</updated>
+        <updated>2020-12-20T19:15:21+05:30</updated>
             <summary>
                 <![CDATA[
                     All who are under the yoke as slaves are to regard their own masters as worthy of all honor so that the name of God and our doctrine will not be spoken against. - 1 Timothy 6:1 Through&hellip;
@@ -50,10 +65,9 @@
         </author>
         <link href="https://charliejoseph.ml/running/"/>
         <id>https://charliejoseph.ml/running/</id>
-            <category term="Writings"/>
             <category term="Biblical"/>
 
-        <updated>2020-12-20T17:40:26+05:30</updated>
+        <updated>2020-12-20T19:15:31+05:30</updated>
             <summary>
                 <![CDATA[
                     Now flee from youthful lusts and pursue righteousness, faith, love and peace, with those who call on the Lord from a pure heart. - 2 Timothy 2:22 There are three running aspects to the above verse:&hellip;
@@ -68,10 +82,9 @@
         </author>
         <link href="https://charliejoseph.ml/deliver-us/"/>
         <id>https://charliejoseph.ml/deliver-us/</id>
-            <category term="Writings"/>
             <category term="Biblical"/>
 
-        <updated>2020-12-19T22:20:01+05:30</updated>
+        <updated>2020-12-20T19:15:39+05:30</updated>
             <summary>
                 <![CDATA[
                     ‘Deliver us from evil’ - Matt 6:13 These words are from the prayer framework that the Lord Jesus taught His disciples when they asked Him to teach them how to pray. Here's looking at two&hellip;
@@ -86,10 +99,9 @@
         </author>
         <link href="https://charliejoseph.ml/who-then-is-this/"/>
         <id>https://charliejoseph.ml/who-then-is-this/</id>
-            <category term="Writings"/>
             <category term="Gospel"/>
 
-        <updated>2020-12-19T14:34:54+05:30</updated>
+        <updated>2020-12-20T19:15:48+05:30</updated>
             <summary>
                 <![CDATA[
                     “Who then is this, that He commands even the winds and the water, and they obey Him?” - The Gospel according to Luke, chapter 8, verses 22-25 The disciples were terrified, because it sure is&hellip;
@@ -138,9 +150,9 @@
         </author>
         <link href="https://charliejoseph.ml/the-pursuit-of-happiness/"/>
         <id>https://charliejoseph.ml/the-pursuit-of-happiness/</id>
-            <category term="Writings"/>
+            <category term="Biblical"/>
 
-        <updated>2020-12-20T18:23:32+05:30</updated>
+        <updated>2020-12-20T19:16:01+05:30</updated>
             <summary>
                 <![CDATA[
                     The second paragraph of the United States Declaration of Independence begins with "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable&hellip;
@@ -155,28 +167,12 @@
         </author>
         <link href="https://charliejoseph.ml/death-and-life-two-sides-of-the-same-coin/"/>
         <id>https://charliejoseph.ml/death-and-life-two-sides-of-the-same-coin/</id>
-            <category term="Writings"/>
+            <category term="Biblical"/>
 
-        <updated>2020-12-19T14:40:56+05:30</updated>
+        <updated>2020-12-20T19:16:27+05:30</updated>
             <summary>
                 <![CDATA[
                     Today, people across the world are locked down by dread of a virus that they cannot see easily. What can be seen however are the frightening graphs of infections and deaths, and the sobering projections&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Contact</title>
-        <author>
-            <name>Charlie</name>
-        </author>
-        <link href="https://charliejoseph.ml/contact/"/>
-        <id>https://charliejoseph.ml/contact/</id>
-
-        <updated>2020-12-19T16:46:40+05:30</updated>
-            <summary>
-                <![CDATA[
-                    If you would, please fill out the form below. I think I will most likely get back to you.Loading…
                 ]]>
             </summary>
         <content></content>

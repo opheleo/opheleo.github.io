@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://charliejoseph.ml/writings/",
+            "url": "https://charliejoseph.ml/writings/",
+            "title": "Writings",
+            "summary": " Categorized under: Biblical: Small articles based off Bible verses Gospel: Articles about the good news of Jesus Christ ",
+            "author": {
+                "name": "Charlie"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-20T19:14:37+05:30",
+            "date_modified": "2020-12-20T19:14:37+05:30"
+        },
+        {
             "id": "https://charliejoseph.ml/subscribe-2/",
             "url": "https://charliejoseph.ml/subscribe-2/",
             "title": "Subscribe",
@@ -31,11 +44,10 @@
                 "name": "Charlie"
             },
             "tags": [
-                   "Writings",
                    "Biblical"
             ],
             "date_published": "2020-12-20T17:46:44+05:30",
-            "date_modified": "2020-12-20T17:46:44+05:30"
+            "date_modified": "2020-12-20T19:15:21+05:30"
         },
         {
             "id": "https://charliejoseph.ml/running/",
@@ -46,11 +58,10 @@
                 "name": "Charlie"
             },
             "tags": [
-                   "Writings",
                    "Biblical"
             ],
             "date_published": "2020-12-20T17:40:26+05:30",
-            "date_modified": "2020-12-20T17:40:26+05:30"
+            "date_modified": "2020-12-20T19:15:31+05:30"
         },
         {
             "id": "https://charliejoseph.ml/deliver-us/",
@@ -61,11 +72,10 @@
                 "name": "Charlie"
             },
             "tags": [
-                   "Writings",
                    "Biblical"
             ],
             "date_published": "2020-12-19T22:00:40+05:30",
-            "date_modified": "2020-12-19T22:20:01+05:30"
+            "date_modified": "2020-12-20T19:15:39+05:30"
         },
         {
             "id": "https://charliejoseph.ml/who-then-is-this/",
@@ -76,11 +86,10 @@
                 "name": "Charlie"
             },
             "tags": [
-                   "Writings",
                    "Gospel"
             ],
             "date_published": "2020-08-08T21:44:27+05:30",
-            "date_modified": "2020-12-19T14:34:54+05:30"
+            "date_modified": "2020-12-20T19:15:48+05:30"
         },
         {
             "id": "https://charliejoseph.ml/quite-a-gale/",
@@ -119,10 +128,10 @@
                 "name": "Charlie"
             },
             "tags": [
-                   "Writings"
+                   "Biblical"
             ],
             "date_published": "2020-04-27T15:55:57+05:30",
-            "date_modified": "2020-12-20T18:23:32+05:30"
+            "date_modified": "2020-12-20T19:16:01+05:30"
         },
         {
             "id": "https://charliejoseph.ml/death-and-life-two-sides-of-the-same-coin/",
@@ -133,23 +142,10 @@
                 "name": "Charlie"
             },
             "tags": [
-                   "Writings"
+                   "Biblical"
             ],
             "date_published": "2020-04-24T19:20:39+05:30",
-            "date_modified": "2020-12-19T14:40:56+05:30"
-        },
-        {
-            "id": "https://charliejoseph.ml/contact/",
-            "url": "https://charliejoseph.ml/contact/",
-            "title": "Contact",
-            "summary": "If you would, please fill out the form below. I think I will most likely get back to you.Loading…",
-            "author": {
-                "name": "Charlie"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-04-19T19:44:03+05:30",
-            "date_modified": "2020-12-19T16:46:40+05:30"
+            "date_modified": "2020-12-20T19:16:27+05:30"
         }
     ]
 }
