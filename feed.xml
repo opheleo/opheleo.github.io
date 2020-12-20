@@ -3,7 +3,7 @@
     <title>Charlie Joseph</title>
     <link href="https://charliejoseph.ml/feed.xml" rel="self" />
     <link href="https://charliejoseph.ml" />
-    <updated>2020-12-20T17:40:36+05:30</updated>
+    <updated>2020-12-20T17:43:50+05:30</updated>
     <author>
         <name>Iraxel</name>
     </author>
@@ -16,8 +16,8 @@
         </author>
         <link href="https://charliejoseph.ml/running/"/>
         <id>https://charliejoseph.ml/running/</id>
+            <category term="Writings"/>
             <category term="Gleanings"/>
-            <category term="Articles"/>
 
         <updated>2020-12-20T17:40:26+05:30</updated>
             <summary>
@@ -43,8 +43,8 @@
         </author>
         <link href="https://charliejoseph.ml/deliver-us/"/>
         <id>https://charliejoseph.ml/deliver-us/</id>
+            <category term="Writings"/>
             <category term="Gleanings"/>
-            <category term="Articles"/>
 
         <updated>2020-12-19T22:20:01+05:30</updated>
             <summary>
@@ -70,8 +70,8 @@
         </author>
         <link href="https://charliejoseph.ml/who-then-is-this/"/>
         <id>https://charliejoseph.ml/who-then-is-this/</id>
+            <category term="Writings"/>
             <category term="Gospel"/>
-            <category term="Articles"/>
 
         <updated>2020-12-19T14:34:54+05:30</updated>
             <summary>
@@ -141,7 +141,7 @@
         </author>
         <link href="https://charliejoseph.ml/the-pursuit-of-happiness/"/>
         <id>https://charliejoseph.ml/the-pursuit-of-happiness/</id>
-            <category term="Articles"/>
+            <category term="Writings"/>
 
         <updated>2020-12-19T14:40:40+05:30</updated>
             <summary>
@@ -237,7 +237,7 @@
         </author>
         <link href="https://charliejoseph.ml/death-and-life-two-sides-of-the-same-coin/"/>
         <id>https://charliejoseph.ml/death-and-life-two-sides-of-the-same-coin/</id>
-            <category term="Articles"/>
+            <category term="Writings"/>
 
         <updated>2020-12-19T14:40:56+05:30</updated>
             <summary>
@@ -295,7 +295,7 @@
         </author>
         <link href="https://charliejoseph.ml/whats-common-between-greed-and-immorality/"/>
         <id>https://charliejoseph.ml/whats-common-between-greed-and-immorality/</id>
-            <category term="Articles"/>
+            <category term="Writings"/>
 
         <updated>2020-12-19T14:41:29+05:30</updated>
             <summary>
