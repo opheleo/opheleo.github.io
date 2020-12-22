@@ -5,7 +5,7 @@
     "home_page_url": "https://charliejoseph.ml",
     "feed_url": "https://charliejoseph.ml/feed.json",
     "user_comment": "",
-    "icon": "https://charliejoseph.ml/media/website/Logo_25dpi-2.png",
+    "icon": "https://charliejoseph.ml/media/website/Logo_25dpi.png",
     "author": {
         "name": "Charlie"
     },
@@ -55,7 +55,6 @@
             "url": "https://charliejoseph.ml/running/",
             "title": "Running",
             "summary": "Now flee from youthful lusts and pursue righteousness, faith, love and peace, with those who call on the Lord from a pure heart. - 2 Timothy 2:22 There are three running aspects to the above verse:&hellip;",
-            "image": "https://charliejoseph.ml/media/posts/18/Run_50dpi.png",
             "author": {
                 "name": "Charlie"
             },
@@ -63,7 +62,7 @@
                    "Biblical"
             ],
             "date_published": "2020-12-20T17:40:26+05:30",
-            "date_modified": "2020-12-20T21:44:36+05:30"
+            "date_modified": "2020-12-22T20:42:17+05:30"
         },
         {
             "id": "https://charliejoseph.ml/deliver-us/",
