@@ -3,12 +3,30 @@
     <title>Charlie Joseph</title>
     <link href="https://charliejoseph.ml/feed.xml" rel="self" />
     <link href="https://charliejoseph.ml" />
-    <updated>2020-12-22T21:38:24+05:30</updated>
+    <updated>2020-12-24T09:47:37+05:30</updated>
     <author>
         <name>Charlie</name>
     </author>
     <id>https://charliejoseph.ml</id>
 
+    <entry>
+        <title>Bitter Grapes</title>
+        <author>
+            <name>Charlie</name>
+        </author>
+        <link href="https://charliejoseph.ml/bitter-grapes/"/>
+        <id>https://charliejoseph.ml/bitter-grapes/</id>
+            <category term="Short Story"/>
+
+        <updated>2020-12-24T09:47:37+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://charliejoseph.ml/media/posts/22/BitterGrapes_1280by400.png" alt="" />
+                     Alex walked away bitterly saying “The grapes must be bitter!”. “Wait Alex!’, Marvey the other fox cried out, ‘let me try. I’ll get some for you,” and he being a little bit stronger than&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Writings</title>
         <author>
@@ -158,23 +176,6 @@
             <summary>
                 <![CDATA[
                     The second paragraph of the United States Declaration of Independence begins with "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Death and Life, Two Sides of the Same Coin</title>
-        <author>
-            <name>Charlie</name>
-        </author>
-        <link href="https://charliejoseph.ml/death-and-life-two-sides-of-the-same-coin/"/>
-        <id>https://charliejoseph.ml/death-and-life-two-sides-of-the-same-coin/</id>
-            <category term="Biblical"/>
-
-        <updated>2020-12-22T21:38:24+05:30</updated>
-            <summary>
-                <![CDATA[
-                    Today, people across the world are locked down by dread of a virus that they cannot see easily. What can be seen however are the frightening graphs of infections and deaths, and the sobering projections&hellip;
                 ]]>
             </summary>
         <content></content>
