@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://charliejoseph.ml/a-fractured-arm-and-jai-shri-ram/",
+            "url": "https://charliejoseph.ml/a-fractured-arm-and-jai-shri-ram/",
+            "title": "A fractured arm and &quot;Jai Shri Ram&quot;",
+            "summary": " On January 3, a few Christians in Shahjahanpur, Uttar Pradesh, India were shocked out of their wits. They were in a prayer service on the first Sunday of the New Year when goons from&hellip;",
+            "author": {
+                "name": "Charlie"
+            },
+            "tags": [
+                   "Opinion"
+            ],
+            "date_published": "2021-01-13T08:05:41+05:30",
+            "date_modified": "2021-01-13T08:07:03+05:30"
+        },
+        {
             "id": "https://charliejoseph.ml/bitter-grapes/",
             "url": "https://charliejoseph.ml/bitter-grapes/",
             "title": "Bitter Grapes",
@@ -136,20 +150,6 @@
             ],
             "date_published": "2020-05-02T15:32:57+05:30",
             "date_modified": "2020-12-22T21:02:46+05:30"
-        },
-        {
-            "id": "https://charliejoseph.ml/the-pursuit-of-happiness/",
-            "url": "https://charliejoseph.ml/the-pursuit-of-happiness/",
-            "title": "The Pursuit of Happiness",
-            "summary": "The second paragraph of the United States Declaration of Independence begins with \"We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable&hellip;",
-            "author": {
-                "name": "Charlie"
-            },
-            "tags": [
-                   "Biblical"
-            ],
-            "date_published": "2020-04-27T15:55:57+05:30",
-            "date_modified": "2020-12-20T19:16:01+05:30"
         }
     ]
 }
