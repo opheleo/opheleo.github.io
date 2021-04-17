@@ -3,12 +3,31 @@
     <title>Worm</title>
     <link href="https://worm.gq/feed.xml" rel="self" />
     <link href="https://worm.gq" />
-    <updated>2021-04-17T12:08:37+05:30</updated>
+    <updated>2021-04-17T13:11:27+05:30</updated>
     <author>
         <name>Worm</name>
     </author>
     <id>https://worm.gq</id>
 
+    <entry>
+        <title>Out Father</title>
+        <author>
+            <name>Worm</name>
+        </author>
+        <link href="https://worm.gq/out-father/"/>
+        <id>https://worm.gq/out-father/</id>
+            <category term="Gospel"/>
+            <category term="Biblical"/>
+
+        <updated>2021-04-17T13:11:27+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://worm.gq/media/posts/24/fathers-hand.jpg" alt="" />
+                     In Matthew 6, the Lord Jesus teaches His disciples how to pray. He gives them a template that begins&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>A fractured arm and &quot;Jai Shri Ram&quot;</title>
         <author>
@@ -167,24 +186,6 @@
                 <![CDATA[
                         <img src="https://worm.gq/media/posts/8/bonding-cold-cozy-dog-374845.jpg" alt="" />
                     The second paragraph of the United States Declaration of Independence begins with "We hold these truths to be self-evident, that&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Death and Life, Two Sides of the Same Coin</title>
-        <author>
-            <name>Worm</name>
-        </author>
-        <link href="https://worm.gq/death-and-life-two-sides-of-the-same-coin/"/>
-        <id>https://worm.gq/death-and-life-two-sides-of-the-same-coin/</id>
-            <category term="Biblical"/>
-
-        <updated>2021-04-17T11:47:13+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://worm.gq/media/posts/7/man-in-black-jacket-standing-in-front-of-grave-3648309.jpg" alt="" />
-                    Today, people across the world are locked down by dread of a virus that they cannot see easily. What can&hellip;
                 ]]>
             </summary>
         <content></content>
