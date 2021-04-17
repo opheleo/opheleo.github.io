@@ -3,7 +3,7 @@
     <title>Worm</title>
     <link href="https://worm.gq/feed.xml" rel="self" />
     <link href="https://worm.gq" />
-    <updated>2021-04-17T11:27:10+05:30</updated>
+    <updated>2021-04-17T11:32:48+05:30</updated>
     <author>
         <name>Worm</name>
     </author>
@@ -36,43 +36,11 @@
         <id>https://worm.gq/bitter-grapes/</id>
             <category term="Short Story"/>
 
-        <updated>2020-12-24T10:06:26+05:30</updated>
+        <updated>2021-04-17T11:31:42+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://worm.gq/media/posts/22/BitterGrapes_1280by400.png" alt="" />
                      Alex walked away bitterly saying “The grapes must be bitter!”. “Wait Alex!’, Marvey the other fox cried out, ‘let&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Writings</title>
-        <author>
-            <name>Worm</name>
-        </author>
-        <link href="https://worm.gq/writings/"/>
-        <id>https://worm.gq/writings/</id>
-
-        <updated>2020-12-24T10:01:13+05:30</updated>
-            <summary>
-                <![CDATA[
-                     Categorized under: Biblical: Small articles based off Bible verses Gospel: Articles about the good news of Jesus Christ Short&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Subscribe</title>
-        <author>
-            <name>Worm</name>
-        </author>
-        <link href="https://worm.gq/subscribe-2/"/>
-        <id>https://worm.gq/subscribe-2/</id>
-
-        <updated>2020-12-20T20:08:28+05:30</updated>
-            <summary>
-                <![CDATA[
-                     Use this link to subscribe to my RSS feed:&nbsp;https://charliejoseph.ml/feed.xml 
                 ]]>
             </summary>
         <content></content>
@@ -86,7 +54,7 @@
         <id>https://worm.gq/worthy-of-all-honor/</id>
             <category term="Biblical"/>
 
-        <updated>2020-12-20T19:15:21+05:30</updated>
+        <updated>2021-04-17T11:32:48+05:30</updated>
             <summary>
                 <![CDATA[
                     All who are under the yoke as slaves are to regard their own masters as worthy of all honor so that&hellip;
@@ -177,6 +145,40 @@
                 <![CDATA[
                         <img src="https://worm.gq/media/posts/10/Departing_1280by400.png" alt="" />
                     In the departing, Is the beginning, Of the turning, From the light we know. For this we perceive, Deep down&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Pursuit of Happiness</title>
+        <author>
+            <name>Worm</name>
+        </author>
+        <link href="https://worm.gq/the-pursuit-of-happiness/"/>
+        <id>https://worm.gq/the-pursuit-of-happiness/</id>
+            <category term="Biblical"/>
+
+        <updated>2020-12-20T19:16:01+05:30</updated>
+            <summary>
+                <![CDATA[
+                    The second paragraph of the United States Declaration of Independence begins with "We hold these truths to be self-evident, that&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Death and Life, Two Sides of the Same Coin</title>
+        <author>
+            <name>Worm</name>
+        </author>
+        <link href="https://worm.gq/death-and-life-two-sides-of-the-same-coin/"/>
+        <id>https://worm.gq/death-and-life-two-sides-of-the-same-coin/</id>
+            <category term="Biblical"/>
+
+        <updated>2020-12-22T21:38:24+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Today, people across the world are locked down by dread of a virus that they cannot see easily. What can&hellip;
                 ]]>
             </summary>
         <content></content>

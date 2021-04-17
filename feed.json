@@ -38,33 +38,7 @@
                    "Short Story"
             ],
             "date_published": "2020-12-24T09:44:32+05:30",
-            "date_modified": "2020-12-24T10:06:26+05:30"
-        },
-        {
-            "id": "https://worm.gq/writings/",
-            "url": "https://worm.gq/writings/",
-            "title": "Writings",
-            "summary": " Categorized under: Biblical: Small articles based off Bible verses Gospel: Articles about the good news of Jesus Christ Short&hellip;",
-            "author": {
-                "name": "Worm"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-12-20T19:14:37+05:30",
-            "date_modified": "2020-12-24T10:01:13+05:30"
-        },
-        {
-            "id": "https://worm.gq/subscribe-2/",
-            "url": "https://worm.gq/subscribe-2/",
-            "title": "Subscribe",
-            "summary": " Use this link to subscribe to my RSS feed:&nbsp;https://charliejoseph.ml/feed.xml ",
-            "author": {
-                "name": "Worm"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-12-20T18:54:31+05:30",
-            "date_modified": "2020-12-20T20:08:28+05:30"
+            "date_modified": "2021-04-17T11:31:42+05:30"
         },
         {
             "id": "https://worm.gq/worthy-of-all-honor/",
@@ -78,7 +52,7 @@
                    "Biblical"
             ],
             "date_published": "2020-12-20T17:46:44+05:30",
-            "date_modified": "2020-12-20T19:15:21+05:30"
+            "date_modified": "2021-04-17T11:32:48+05:30"
         },
         {
             "id": "https://worm.gq/running/",
@@ -151,6 +125,34 @@
             ],
             "date_published": "2020-05-02T15:32:57+05:30",
             "date_modified": "2020-12-22T21:02:46+05:30"
+        },
+        {
+            "id": "https://worm.gq/the-pursuit-of-happiness/",
+            "url": "https://worm.gq/the-pursuit-of-happiness/",
+            "title": "The Pursuit of Happiness",
+            "summary": "The second paragraph of the United States Declaration of Independence begins with \"We hold these truths to be self-evident, that&hellip;",
+            "author": {
+                "name": "Worm"
+            },
+            "tags": [
+                   "Biblical"
+            ],
+            "date_published": "2020-04-27T15:55:57+05:30",
+            "date_modified": "2020-12-20T19:16:01+05:30"
+        },
+        {
+            "id": "https://worm.gq/death-and-life-two-sides-of-the-same-coin/",
+            "url": "https://worm.gq/death-and-life-two-sides-of-the-same-coin/",
+            "title": "Death and Life, Two Sides of the Same Coin",
+            "summary": "Today, people across the world are locked down by dread of a virus that they cannot see easily. What can&hellip;",
+            "author": {
+                "name": "Worm"
+            },
+            "tags": [
+                   "Biblical"
+            ],
+            "date_published": "2020-04-24T19:20:39+05:30",
+            "date_modified": "2020-12-22T21:38:24+05:30"
         }
     ]
 }
