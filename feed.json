@@ -45,6 +45,7 @@
             "url": "https://worm.gq/worthy-of-all-honor/",
             "title": "Worthy of All Honor",
             "summary": "All who are under the yoke as slaves are to regard their own masters as worthy of all honor so that&hellip;",
+            "image": "https://worm.gq/media/posts/19/servant.jpg",
             "author": {
                 "name": "Worm"
             },
@@ -52,13 +53,14 @@
                    "Biblical"
             ],
             "date_published": "2020-12-20T17:46:44+05:30",
-            "date_modified": "2021-04-17T11:32:48+05:30"
+            "date_modified": "2021-04-17T11:40:03+05:30"
         },
         {
             "id": "https://worm.gq/running/",
             "url": "https://worm.gq/running/",
             "title": "Running",
             "summary": "Now flee from youthful lusts and pursue righteousness, faith, love and peace, with those who call on the Lord from&hellip;",
+            "image": "https://worm.gq/media/posts/18/running.jpg",
             "author": {
                 "name": "Worm"
             },
@@ -66,13 +68,14 @@
                    "Biblical"
             ],
             "date_published": "2020-12-20T17:40:26+05:30",
-            "date_modified": "2020-12-22T20:42:17+05:30"
+            "date_modified": "2021-04-17T11:42:21+05:30"
         },
         {
             "id": "https://worm.gq/deliver-us/",
             "url": "https://worm.gq/deliver-us/",
             "title": "Deliver Us",
             "summary": "‘Deliver us from evil’ - Matt 6:13 These words are from the prayer framework that the Lord Jesus taught His&hellip;",
+            "image": "https://worm.gq/media/posts/17/help.jpg",
             "author": {
                 "name": "Worm"
             },
@@ -80,14 +83,14 @@
                    "Biblical"
             ],
             "date_published": "2020-12-19T22:00:40+05:30",
-            "date_modified": "2020-12-20T19:15:39+05:30"
+            "date_modified": "2021-04-17T11:43:55+05:30"
         },
         {
             "id": "https://worm.gq/who-then-is-this/",
             "url": "https://worm.gq/who-then-is-this/",
             "title": "Who then is this?",
             "summary": "“Who then is this, that He commands even the winds and the water, and they obey Him?” - The Gospel&hellip;",
-            "image": "https://worm.gq/media/posts/15/Storm_50dpi.png",
+            "image": "https://worm.gq/media/posts/15/storm.jpg",
             "author": {
                 "name": "Worm"
             },
@@ -95,7 +98,7 @@
                    "Gospel"
             ],
             "date_published": "2020-08-08T21:44:27+05:30",
-            "date_modified": "2020-12-20T21:53:55+05:30"
+            "date_modified": "2021-04-17T11:46:11+05:30"
         },
         {
             "id": "https://worm.gq/quite-a-gale/",
@@ -131,6 +134,7 @@
             "url": "https://worm.gq/the-pursuit-of-happiness/",
             "title": "The Pursuit of Happiness",
             "summary": "The second paragraph of the United States Declaration of Independence begins with \"We hold these truths to be self-evident, that&hellip;",
+            "image": "https://worm.gq/media/posts/8/bonding-cold-cozy-dog-374845.jpg",
             "author": {
                 "name": "Worm"
             },
@@ -138,13 +142,14 @@
                    "Biblical"
             ],
             "date_published": "2020-04-27T15:55:57+05:30",
-            "date_modified": "2020-12-20T19:16:01+05:30"
+            "date_modified": "2021-04-17T11:46:46+05:30"
         },
         {
             "id": "https://worm.gq/death-and-life-two-sides-of-the-same-coin/",
             "url": "https://worm.gq/death-and-life-two-sides-of-the-same-coin/",
             "title": "Death and Life, Two Sides of the Same Coin",
             "summary": "Today, people across the world are locked down by dread of a virus that they cannot see easily. What can&hellip;",
+            "image": "https://worm.gq/media/posts/7/man-in-black-jacket-standing-in-front-of-grave-3648309.jpg",
             "author": {
                 "name": "Worm"
             },
@@ -152,7 +157,7 @@
                    "Biblical"
             ],
             "date_published": "2020-04-24T19:20:39+05:30",
-            "date_modified": "2020-12-22T21:38:24+05:30"
+            "date_modified": "2021-04-17T11:47:13+05:30"
         }
     ]
 }
