@@ -5,7 +5,7 @@
     "home_page_url": "https://worm.gq",
     "feed_url": "https://worm.gq/feed.json",
     "user_comment": "",
-    "icon": "https://worm.gq/media/website/worm-4.png",
+    "icon": "https://worm.gq/media/website/worm.png",
     "author": {
         "name": "cj"
     },
@@ -21,7 +21,7 @@
             },
             "tags": [
                    "Gospel",
-                   "Biblical"
+                   "Gleanings"
             ],
             "date_published": "2021-04-17T13:14:36+05:30",
             "date_modified": "2021-04-17T13:15:15+05:30"
@@ -66,7 +66,7 @@
                 "name": "cj"
             },
             "tags": [
-                   "Biblical"
+                   "Gleanings"
             ],
             "date_published": "2020-12-20T17:46:44+05:30",
             "date_modified": "2021-04-17T11:40:03+05:30"
@@ -81,7 +81,7 @@
                 "name": "cj"
             },
             "tags": [
-                   "Biblical"
+                   "Gleanings"
             ],
             "date_published": "2020-12-20T17:40:26+05:30",
             "date_modified": "2021-04-17T11:42:21+05:30"
@@ -96,7 +96,7 @@
                 "name": "cj"
             },
             "tags": [
-                   "Biblical"
+                   "Gleanings"
             ],
             "date_published": "2020-12-19T22:00:40+05:30",
             "date_modified": "2021-04-17T11:43:55+05:30"
@@ -156,7 +156,7 @@
                 "name": "cj"
             },
             "tags": [
-                   "Biblical"
+                   "Gleanings"
             ],
             "date_published": "2020-04-27T15:55:57+05:30",
             "date_modified": "2021-04-17T11:46:46+05:30"
