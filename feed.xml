@@ -3,12 +3,30 @@
     <title>Worm</title>
     <link href="https://worm.gq/feed.xml" rel="self" />
     <link href="https://worm.gq" />
-    <updated>2021-04-17T13:15:15+05:30</updated>
+    <updated>2021-04-20T21:36:08+05:30</updated>
     <author>
         <name>cj</name>
     </author>
     <id>https://worm.gq</id>
 
+    <entry>
+        <title>Why focus on doom and gloom?</title>
+        <author>
+            <name>cj</name>
+        </author>
+        <link href="https://worm.gq/why-focus-on-doom-and-gloom/"/>
+        <id>https://worm.gq/why-focus-on-doom-and-gloom/</id>
+            <category term="Opinion"/>
+
+        <updated>2021-04-20T21:36:08+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://worm.gq/media/posts/26/binoculars.jpg" alt="" />
+                     God has given us prophetic revelations in His Word not that we can stay ahead of the curve. That&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Our Father</title>
         <author>
@@ -168,24 +186,6 @@
                 <![CDATA[
                         <img src="https://worm.gq/media/posts/10/woman-standing-near-open-door-about-to-step-outside-2297663.jpg" alt="" />
                     In the departing, Is the beginning, Of the turning, From the light we know. For this we perceive, Deep down&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>The Pursuit of Happiness</title>
-        <author>
-            <name>cj</name>
-        </author>
-        <link href="https://worm.gq/the-pursuit-of-happiness/"/>
-        <id>https://worm.gq/the-pursuit-of-happiness/</id>
-            <category term="Gleanings"/>
-
-        <updated>2021-04-17T11:46:46+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://worm.gq/media/posts/8/bonding-cold-cozy-dog-374845.jpg" alt="" />
-                    The second paragraph of the United States Declaration of Independence begins with "We hold these truths to be self-evident, that&hellip;
                 ]]>
             </summary>
         <content></content>

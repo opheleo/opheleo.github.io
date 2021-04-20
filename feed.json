@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://worm.gq/why-focus-on-doom-and-gloom/",
+            "url": "https://worm.gq/why-focus-on-doom-and-gloom/",
+            "title": "Why focus on doom and gloom?",
+            "summary": " God has given us prophetic revelations in His Word not that we can stay ahead of the curve. That&hellip;",
+            "image": "https://worm.gq/media/posts/26/binoculars.jpg",
+            "author": {
+                "name": "cj"
+            },
+            "tags": [
+                   "Opinion"
+            ],
+            "date_published": "2021-04-20T21:36:08+05:30",
+            "date_modified": "2021-04-20T21:36:08+05:30"
+        },
+        {
             "id": "https://worm.gq/our-father/",
             "url": "https://worm.gq/our-father/",
             "title": "Our Father",
@@ -145,21 +160,6 @@
             ],
             "date_published": "2020-05-02T15:32:57+05:30",
             "date_modified": "2021-04-17T12:08:13+05:30"
-        },
-        {
-            "id": "https://worm.gq/the-pursuit-of-happiness/",
-            "url": "https://worm.gq/the-pursuit-of-happiness/",
-            "title": "The Pursuit of Happiness",
-            "summary": "The second paragraph of the United States Declaration of Independence begins with \"We hold these truths to be self-evident, that&hellip;",
-            "image": "https://worm.gq/media/posts/8/bonding-cold-cozy-dog-374845.jpg",
-            "author": {
-                "name": "cj"
-            },
-            "tags": [
-                   "Gleanings"
-            ],
-            "date_published": "2020-04-27T15:55:57+05:30",
-            "date_modified": "2021-04-17T11:46:46+05:30"
         }
     ]
 }
