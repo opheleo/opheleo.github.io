@@ -3,12 +3,31 @@
     <title>Worm</title>
     <link href="https://worm.gq/feed.xml" rel="self" />
     <link href="https://worm.gq" />
-    <updated>2021-04-20T21:36:08+05:30</updated>
+    <updated>2021-06-20T22:11:31+05:30</updated>
     <author>
         <name>cj</name>
     </author>
     <id>https://worm.gq</id>
 
+    <entry>
+        <title>Juneteenth, Galveston, and Jerusalem </title>
+        <author>
+            <name>cj</name>
+        </author>
+        <link href="https://worm.gq/juneteenth-galveston-and-jerusalem/"/>
+        <id>https://worm.gq/juneteenth-galveston-and-jerusalem/</id>
+            <category term="Gospel"/>
+            <category term="Articles"/>
+
+        <updated>2021-06-20T22:11:31+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://worm.gq/media/posts/27/Slavery.jpg" alt="" />
+                     A few days ago, US President Joe Biden signed the Juneteenth National Independence Day Act into law. The bill&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Why focus on doom and gloom?</title>
         <author>
@@ -168,24 +187,6 @@
                 <![CDATA[
                         <img src="https://worm.gq/media/posts/13/lightning-strike-the-ground-during-night-time-167755.jpg" alt="" />
                     Lightning striking those tired eyes, Staring dully at the slow heavy clouds, Hanging dark above the fearful fields, Once green&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>The Departing</title>
-        <author>
-            <name>cj</name>
-        </author>
-        <link href="https://worm.gq/the-departing/"/>
-        <id>https://worm.gq/the-departing/</id>
-            <category term="Poetry"/>
-
-        <updated>2021-04-17T12:08:13+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://worm.gq/media/posts/10/woman-standing-near-open-door-about-to-step-outside-2297663.jpg" alt="" />
-                    In the departing, Is the beginning, Of the turning, From the light we know. For this we perceive, Deep down&hellip;
                 ]]>
             </summary>
         <content></content>

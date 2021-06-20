@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://worm.gq/juneteenth-galveston-and-jerusalem/",
+            "url": "https://worm.gq/juneteenth-galveston-and-jerusalem/",
+            "title": "Juneteenth, Galveston, and Jerusalem ",
+            "summary": " A few days ago, US President Joe Biden signed the Juneteenth National Independence Day Act into law. The bill&hellip;",
+            "image": "https://worm.gq/media/posts/27/Slavery.jpg",
+            "author": {
+                "name": "cj"
+            },
+            "tags": [
+                   "Gospel",
+                   "Articles"
+            ],
+            "date_published": "2021-06-20T22:00:38+05:30",
+            "date_modified": "2021-06-20T22:11:31+05:30"
+        },
+        {
             "id": "https://worm.gq/why-focus-on-doom-and-gloom/",
             "url": "https://worm.gq/why-focus-on-doom-and-gloom/",
             "title": "Why focus on doom and gloom?",
@@ -145,21 +161,6 @@
             ],
             "date_published": "2020-05-28T19:35:59+05:30",
             "date_modified": "2021-04-17T12:08:37+05:30"
-        },
-        {
-            "id": "https://worm.gq/the-departing/",
-            "url": "https://worm.gq/the-departing/",
-            "title": "The Departing",
-            "summary": "In the departing, Is the beginning, Of the turning, From the light we know. For this we perceive, Deep down&hellip;",
-            "image": "https://worm.gq/media/posts/10/woman-standing-near-open-door-about-to-step-outside-2297663.jpg",
-            "author": {
-                "name": "cj"
-            },
-            "tags": [
-                   "Poetry"
-            ],
-            "date_published": "2020-05-02T15:32:57+05:30",
-            "date_modified": "2021-04-17T12:08:13+05:30"
         }
     ]
 }
